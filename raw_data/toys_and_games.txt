@@ -1,0 +1,16 @@
+https://amazon-reviews-2023.github.io/
+
+dataset is available in the above link, 
+
+download Toys_and_Games.jsonl 
+
+8.1M
+
+890.7K
+
+16.3M
+
+707.9M
+
+848.3M
+
