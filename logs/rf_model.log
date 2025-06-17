@@ -1,0 +1,27 @@
+25/06/17 15:40:54 INFO SparkEnv: Registering MapOutputTracker  
+25/06/17 15:40:54 INFO SparkEnv: Registering BlockManagerMaster  
+25/06/17 15:40:54 INFO SparkEnv: Registering OutputCommitCoordinator  
+25/06/17 15:40:57 INFO DataprocSparkPlugin: Registered 128 driver metrics  
+25/06/17 15:41:00 INFO YarnClientImpl: Submitted application application_1750097936025_0042  
+
+root  
+ |-- asin: string (nullable = true)  
+ |-- 0.0: double (nullable = true)  
+ |-- 0: integer (nullable = true)  
+ |-- _c3: string (nullable = true)  
+
++----------+--------+---+----+  
+|      asin|     0.0|  0| _c3|  
++----------+--------+---+----+  
+|B01FST8A90|  6717.0|  0|null|  
+|B000UEQI1G|  5071.0|  1|null|  
+|B0010VS078|  3836.0|  1|null|  
+|B07H4HKDG7|  2022.0|  5|null|  
+|B00KI03U8Q|  1927.0|  0|null|  
++----------+--------+---+----+  
+only showing top 5 rows  
+
+Test Accuracy = 1.0000  
+
+25/06/17 15:41:44 INFO DataprocSparkPlugin: Shutting down driver plugin  
+... (metrics and diagnostics truncated) ...
